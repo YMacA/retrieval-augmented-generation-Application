@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+flask
+flask-cors
+langchain
+langchain-community
+anthropic
+chromadb
+python-dotenv
+sentence-transformers
+pypdf
+PyPDF2
+
+
